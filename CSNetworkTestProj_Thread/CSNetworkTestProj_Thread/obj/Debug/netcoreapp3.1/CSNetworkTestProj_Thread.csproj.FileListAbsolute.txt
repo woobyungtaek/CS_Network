@@ -1,0 +1,13 @@
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\bin\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.exe
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\bin\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.deps.json
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\bin\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.runtimeconfig.json
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\bin\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.runtimeconfig.dev.json
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\bin\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.dll
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\bin\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.pdb
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\obj\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.csprojAssemblyReference.cache
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\obj\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.AssemblyInfoInputs.cache
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\obj\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.AssemblyInfo.cs
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\obj\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.csproj.CoreCompileInputs.cache
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\obj\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.dll
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\obj\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.pdb
+D:\CSStudy\network\CSNetworkTestProj_Thread\CSNetworkTestProj_Thread\obj\Debug\netcoreapp3.1\CSNetworkTestProj_Thread.genruntimeconfig.cache

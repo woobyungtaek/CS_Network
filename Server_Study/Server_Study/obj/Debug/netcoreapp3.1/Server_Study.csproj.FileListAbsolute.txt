@@ -1,0 +1,13 @@
+D:\CSStudy\network\Server_Study\Server_Study\bin\Debug\netcoreapp3.1\Server_Study.exe
+D:\CSStudy\network\Server_Study\Server_Study\bin\Debug\netcoreapp3.1\Server_Study.deps.json
+D:\CSStudy\network\Server_Study\Server_Study\bin\Debug\netcoreapp3.1\Server_Study.runtimeconfig.json
+D:\CSStudy\network\Server_Study\Server_Study\bin\Debug\netcoreapp3.1\Server_Study.runtimeconfig.dev.json
+D:\CSStudy\network\Server_Study\Server_Study\bin\Debug\netcoreapp3.1\Server_Study.dll
+D:\CSStudy\network\Server_Study\Server_Study\bin\Debug\netcoreapp3.1\Server_Study.pdb
+D:\CSStudy\network\Server_Study\Server_Study\obj\Debug\netcoreapp3.1\Server_Study.csprojAssemblyReference.cache
+D:\CSStudy\network\Server_Study\Server_Study\obj\Debug\netcoreapp3.1\Server_Study.AssemblyInfoInputs.cache
+D:\CSStudy\network\Server_Study\Server_Study\obj\Debug\netcoreapp3.1\Server_Study.AssemblyInfo.cs
+D:\CSStudy\network\Server_Study\Server_Study\obj\Debug\netcoreapp3.1\Server_Study.csproj.CoreCompileInputs.cache
+D:\CSStudy\network\Server_Study\Server_Study\obj\Debug\netcoreapp3.1\Server_Study.dll
+D:\CSStudy\network\Server_Study\Server_Study\obj\Debug\netcoreapp3.1\Server_Study.pdb
+D:\CSStudy\network\Server_Study\Server_Study\obj\Debug\netcoreapp3.1\Server_Study.genruntimeconfig.cache

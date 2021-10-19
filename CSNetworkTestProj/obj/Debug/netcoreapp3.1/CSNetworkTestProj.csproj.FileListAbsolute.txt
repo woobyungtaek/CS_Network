@@ -1,0 +1,13 @@
+D:\CSStudy\network\CSNetworkTestProj\bin\Debug\netcoreapp3.1\CSNetworkTestProj.exe
+D:\CSStudy\network\CSNetworkTestProj\bin\Debug\netcoreapp3.1\CSNetworkTestProj.deps.json
+D:\CSStudy\network\CSNetworkTestProj\bin\Debug\netcoreapp3.1\CSNetworkTestProj.runtimeconfig.json
+D:\CSStudy\network\CSNetworkTestProj\bin\Debug\netcoreapp3.1\CSNetworkTestProj.runtimeconfig.dev.json
+D:\CSStudy\network\CSNetworkTestProj\bin\Debug\netcoreapp3.1\CSNetworkTestProj.dll
+D:\CSStudy\network\CSNetworkTestProj\bin\Debug\netcoreapp3.1\CSNetworkTestProj.pdb
+D:\CSStudy\network\CSNetworkTestProj\obj\Debug\netcoreapp3.1\CSNetworkTestProj.csprojAssemblyReference.cache
+D:\CSStudy\network\CSNetworkTestProj\obj\Debug\netcoreapp3.1\CSNetworkTestProj.AssemblyInfoInputs.cache
+D:\CSStudy\network\CSNetworkTestProj\obj\Debug\netcoreapp3.1\CSNetworkTestProj.AssemblyInfo.cs
+D:\CSStudy\network\CSNetworkTestProj\obj\Debug\netcoreapp3.1\CSNetworkTestProj.csproj.CoreCompileInputs.cache
+D:\CSStudy\network\CSNetworkTestProj\obj\Debug\netcoreapp3.1\CSNetworkTestProj.dll
+D:\CSStudy\network\CSNetworkTestProj\obj\Debug\netcoreapp3.1\CSNetworkTestProj.pdb
+D:\CSStudy\network\CSNetworkTestProj\obj\Debug\netcoreapp3.1\CSNetworkTestProj.genruntimeconfig.cache
