@@ -36,7 +36,7 @@ namespace Server_Study
             IPEndPoint endPoint = new IPEndPoint(IPAddress.Any, 10200);
             socket.Bind(endPoint);
             socket.Listen(10);
-                        
+
             while (true)
             {
                 Socket clientSocket = socket.Accept();
@@ -70,14 +70,22 @@ namespace Server_Study
         /// <param name="asyncResult"></param>
         private static void AsyncReceiveCallBack(IAsyncResult asyncResult)
         {
-            AsyncStateData rcvData = asyncResult.AsyncState as AsyncStateData;
+            try
+            {
+                AsyncStateData rcvData = asyncResult.AsyncState as AsyncStateData;
+                int nRecv = rcvData.socket.EndReceive(asyncResult);
+                string txt = Encoding.UTF8.GetString(rcvData.buffer, 0, nRecv);
 
-            int nRecv = rcvData.socket.EndReceive(asyncResult);
-            string txt = Encoding.UTF8.GetString(rcvData.buffer, 0, nRecv);
+                // 받은 메세지를 처리하고 그에 맞는 행동을 해야한다.
 
-            byte[] sendBytes = Encoding.UTF8.GetBytes("hello : " + txt);
-            rcvData.socket.BeginSend(sendBytes, 0, sendBytes.Length,
-                SocketFlags.None, AsyncSendCallBack, rcvData);
+                byte[] sendBytes = Encoding.UTF8.GetBytes("hello : " + txt);
+                rcvData.socket.BeginSend(sendBytes, 0, sendBytes.Length,
+                    SocketFlags.None, AsyncSendCallBack, rcvData);
+            }
+            catch (SocketException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
 
         /// <summary>
@@ -91,9 +99,11 @@ namespace Server_Study
             data.socket.EndSend(asyncResult);
 
             //다시 리시브 걸기
+            data.socket.BeginReceive(data.buffer, 0, data.buffer.Length,
+                SocketFlags.None, AsyncReceiveCallBack, data);
 
             // 소켓 종료
-            data.socket.Close();
+            //data.socket.Close();
         }
     }
 }
