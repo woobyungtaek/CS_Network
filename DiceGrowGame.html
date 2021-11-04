@@ -14,8 +14,8 @@
     <div class="container">
 
         <!-- 로그인 form -->
-        <div id="loginForm">
-            <h1 id="formTitle">주사위 키우기 ver.0.0.1</h1>
+        <div id="LoginForm">
+            <h4 id="formTitle">주사위 키우기 ver.0.0.1</h4>
 
             <div class="input-group mb-3">
                 <span class="input-group-text w-25" id="id-input-label">ID</span>
@@ -26,12 +26,37 @@
                 <input type="text" class="form-control" placeholder="Password" aria-label="Password" aria-describedby="pass-input-label" />
             </div>
             <div class="d-grid gap-2">
-                <button type="button" class="btn btn-primary">로그인 하기</button>
-                <button type="button" class="btn btn-dark">회원가입 하기</button>
+                <button type="button" class="btn btn-outline-primary">로그인 하기</button>
+                <button type="button" class="btn btn-outline-secondary">회원가입 하기</button>
             </div>
         </div>
 
         <!-- 회원 가입 form -->
+        <div id="SignUpForm">
+            <h4 id="formTitle">회원 가입</h4>
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text w-25" id="ID-input-label">ID</span>
+            <input type="text" class="form-control" placeholder="ID" aria-label="ID" aria-describedby="id-input-label" />
+            <button class="btn btn-outline-secondary" type="button" id="button-Duplicate-Check">중복확인</button>
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text w-25" id="pass1-input-label">Password</span>
+            <input type="text" class="form-control" placeholder="Password" aria-label="Password" aria-describedby="pass-input-label" />
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text w-25" id="pass2-input-label">Password Confirm</span>
+            <input type="text" class="form-control" placeholder="Password Confirm" aria-label="Password" aria-describedby="pass-input-label" />
+        </div>
+        <div class="d-grid gap-2">
+            <button type="button" class="btn btn-outline-primary">가입하기</button>
+            <button type="button" class="btn btn-outline-secondary">돌아가기</button>
+        </div>
+
+        <div class="d-grid gap-2">
+            <div class="p-1 border bg-light">Text Label with back + border</div>
+        </div>
+
     </div>
 </body>
 
